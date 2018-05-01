@@ -18,3 +18,7 @@ https://hyper.is
 ## Other
 https://requestbin.fullcontact.com/
 https://chocolatey.org
+
+
+## Design
+https://github.com/airbnb/javascript
