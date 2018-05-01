@@ -15,3 +15,4 @@ https://hyper.is
 
 ## Other
 https://requestbin.fullcontact.com/
+https://chocolatey.org
