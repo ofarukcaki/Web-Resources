@@ -3,6 +3,8 @@
 ## Tools:
 https://www.mozilla.org/tr/firefox/developer/
 
+## Authenication
+https://github.com/jaredhanson/passport
 
 ## Design
 https://webgradients.com
