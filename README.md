@@ -21,6 +21,7 @@ https://hyper.is
 https://requestbin.fullcontact.com/
 https://chocolatey.org
 https://node.green
+https://github.com/kimmobrunfeldt/concurrently
 
 ## Design
 https://github.com/airbnb/javascript
