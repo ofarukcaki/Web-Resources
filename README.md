@@ -8,6 +8,7 @@ https://github.com/jaredhanson/passport
 
 ## Design
 https://webgradients.com
+https://webgradients.com/
 
 ## CSS
 https://yogalayout.com
