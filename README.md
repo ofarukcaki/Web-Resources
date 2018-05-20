@@ -39,3 +39,4 @@ http://mern.io
 
 https://codepen.io/zadvorsky/pen/PNXbGo
 https://getflywheel.com/layout/javascript-libraries-frameworks-2018/
+https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for-august-2017
