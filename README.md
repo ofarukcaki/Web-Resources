@@ -24,6 +24,7 @@ https://chocolatey.org
 https://node.green
 https://github.com/kimmobrunfeldt/concurrently
 https://threejs.org
+https://www.awwwards.com/websites/single-page/
 
 
 ## Design
