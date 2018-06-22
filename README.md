@@ -37,6 +37,8 @@ http://mern.io
 ## react
 https://nextjs.org/learn/
 
+## Animation
+https://popmotion.io
 
 
 ## Awesome
