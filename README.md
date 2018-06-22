@@ -34,6 +34,9 @@ https://github.com/airbnb/javascript
 ## Stacks
 http://mern.io
 
+## react
+https://nextjs.org/learn/
+
 
 
 ## Awesome
