@@ -25,7 +25,7 @@ https://node.green
 https://github.com/kimmobrunfeldt/concurrently
 https://threejs.org
 https://www.awwwards.com/websites/single-page/
-
+https://x-team.com/blog/top-javascript-trends-2018/
 
 ## Design
 https://github.com/airbnb/javascript
