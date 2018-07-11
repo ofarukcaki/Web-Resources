@@ -12,7 +12,7 @@ https://webgradients.com/
 
 ## CSS
 https://yogalayout.com
-
+https://www.webdesignerdepot.com/2017/08/75-web-animation-tools-you-have-to-try/
 ## Terminal
 http://cmder.net
 https://hyper.is
