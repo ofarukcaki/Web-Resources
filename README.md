@@ -44,12 +44,13 @@
 
 ## Animation
 [Simple libraries for delightful interfaces](https://popmotion.io)   
-[Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll)   
+[Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll) 
+[Transition Animation](https://codepen.io/zadvorsky/pen/PNXbGo)   
 
 ## Awesome
-https://codepen.io/zadvorsky/pen/PNXbGo
-https://getflywheel.com/layout/javascript-libraries-frameworks-2018/
-https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for-august-2017
+[33 JavaScript libraries and frameworks to check out in 2018](https://getflywheel.com/layout/javascript-libraries-frameworks-2018/)   
+[15 Interesting JavaScript and CSS Libraries for August 2017](https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for-august-2017)
+[10 Amazing CodePen Demos for April 2018](https://tutorialzine.com/2018/04/10-amazing-codepen-demos-for-april)   
 
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
@@ -58,9 +59,6 @@ https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for
 
 ## BLOG
 [An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)
-
-## Amazing Collections
-[10 Amazing CodePen Demos for April 2018](https://tutorialzine.com/2018/04/10-amazing-codepen-demos-for-april)   
 
 ## Other
 [Inspect Requests](https://requestbin.fullcontact.com/)   
