@@ -29,6 +29,7 @@
 [Hyper](https://hyper.is)   
 
 ## React
+[Gatsby - Static Site Generator](https://www.gatsbyjs.org)  
 [Monocle - Visualizing Tool for React](https://github.com/team-gryff/react-monocle)   
 
 ## Design
