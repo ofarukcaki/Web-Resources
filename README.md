@@ -22,6 +22,7 @@
 [Very Coll Button Effects](https://github.com/codrops/ParticleEffectsButtons)   
 [Web UI Kit](https://github.com/creativetimofficial/now-ui-kit)   
 [shine.js - pretty shadows](https://github.com/bigspaceship/shine.js/)   
+[Fitty - Fit Text to inside it's Parent](https://rikschennink.github.io/fitty/)
 
 ## Terminal
 [Cmder](http://cmder.net)   
