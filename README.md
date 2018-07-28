@@ -37,10 +37,10 @@
 [Airbnb Rules for JS](https://github.com/airbnb/javascript)   
 [Nerd fonts](https://nerdfonts.com/)   
 [CSS Cheatsheet](https://css-doodle.com/#selector-@at)   
-[Icon repository](http://konpa.github.io/devicon/)
-[Khroma - Colors, gradients](http://khroma.co/train/) 
-[ColorSpace - Never waste Hours on finding the perfect Color Palette again!](https://mycolor.space) 
-[CoolHue - Gradients](https://webkul.github.io/coolhue/)  
+[Icon repository](http://konpa.github.io/devicon/)  
+[Khroma - Colors, gradients](http://khroma.co/train/)   
+[ColorSpace - Never waste Hours on finding the perfect Color Palette again!](https://mycolor.space)   
+[CoolHue - Gradients](https://webkul.github.io/coolhue/)    
 [Color Gradient Generator](https://larsenwork.com/easing-gradients/#editor)
 
 ## Stacks
