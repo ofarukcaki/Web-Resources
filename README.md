@@ -50,7 +50,8 @@
 
 ## React
 [next.js - Documentation](https://nextjs.org/learn/)   
-[Material Design spinner components for React.js](https://github.com/tsuyoshiwada/react-md-spinner)   
+[Material Design spinner components for React.js](https://github.com/tsuyoshiwada/react-md-spinner)     
+[HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
 
 ## Animation
 [Simple libraries for delightful interfaces](https://popmotion.io)   
