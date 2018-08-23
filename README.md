@@ -56,7 +56,9 @@
 ## Animation
 [Simple libraries for delightful interfaces](https://popmotion.io)   
 [Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll) 
-[Transition Animation](https://codepen.io/zadvorsky/pen/PNXbGo)   
+[Transition Animation](https://codepen.io/zadvorsky/pen/PNXbGo)     
+[Mo.js - Motion for the web](http://mojs.io/)     
+[ScrollReveal](https://scrollrevealjs.org/)   
 
 ## Awesome
 [33 JavaScript libraries and frameworks to check out in 2018](https://getflywheel.com/layout/javascript-libraries-frameworks-2018/)   
