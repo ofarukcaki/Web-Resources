@@ -24,7 +24,8 @@
 [Web UI Kit](https://github.com/creativetimofficial/now-ui-kit)   
 [shine.js - pretty shadows](https://github.com/bigspaceship/shine.js/)   
 [Fitty - Fit Text to inside it's Parent](https://rikschennink.github.io/fitty/)
-[Image Blur Plugin](https://msurguy.github.io/background-blur/) 
+[Image Blur Plugin](https://msurguy.github.io/background-blur/)     
+[Parallax](https://dixonandmoe.com/rellax/)
 
 ## Terminal
 [Cmder](http://cmder.net)   
