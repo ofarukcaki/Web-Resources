@@ -68,7 +68,9 @@
 
 ## Vectors / Stock Photos / Icons etc.
 https://worldvectorlogo.com/    
-http://www.flaticon.com   
+http://www.flaticon.com     
+https://www.iconfinder.com/   
+https://www.pexels.com/   
 
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
