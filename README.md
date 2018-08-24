@@ -64,7 +64,11 @@
 ## Awesome
 [33 JavaScript libraries and frameworks to check out in 2018](https://getflywheel.com/layout/javascript-libraries-frameworks-2018/)   
 [15 Interesting JavaScript and CSS Libraries for August 2017](https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for-august-2017)
-[10 Amazing CodePen Demos for April 2018](https://tutorialzine.com/2018/04/10-amazing-codepen-demos-for-april)   
+[10 Amazing CodePen Demos for April 2018](https://tutorialzine.com/2018/04/10-amazing-codepen-demos-for-april)      
+
+## Vectors / Stock Photos / Icons etc.
+https://worldvectorlogo.com/    
+http://www.flaticon.com   
 
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
