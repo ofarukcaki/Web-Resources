@@ -70,7 +70,10 @@
 https://worldvectorlogo.com/    
 http://www.flaticon.com     
 https://www.iconfinder.com/   
-https://www.pexels.com/   
+https://www.pexels.com/     
+https://unsplash.com/   
+https://pixabay.com/    
+
 
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
