@@ -54,7 +54,8 @@
 [next.js - Documentation](https://nextjs.org/learn/)   
 [Material Design spinner components for React.js](https://github.com/tsuyoshiwada/react-md-spinner)     
 [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
-[Unstated - React State Management](https://github.com/jamiebuilds/unstated)    
+[Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
+[ReactSpring - React Animations](http://react-spring.surge.sh/)   
 
 
 ## Animation
