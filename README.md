@@ -25,7 +25,8 @@
 [shine.js - pretty shadows](https://github.com/bigspaceship/shine.js/)   
 [Fitty - Fit Text to inside it's Parent](https://rikschennink.github.io/fitty/)
 [Image Blur Plugin](https://msurguy.github.io/background-blur/)     
-[Parallax](https://dixonandmoe.com/rellax/)
+[Parallax](https://dixonandmoe.com/rellax/)   
+[Epic Bootstrap](https://epicbootstrap.com/)    
 
 ## Terminal
 [Cmder](http://cmder.net)   
