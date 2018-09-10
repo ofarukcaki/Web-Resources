@@ -46,6 +46,7 @@
 [CoolHue - Gradients](https://webkul.github.io/coolhue/)    
 [Color Gradient Generator](https://larsenwork.com/easing-gradients/#editor)   
 [Unsplash - Free Stock Photos](https://unsplash.com)    
+[Paletton - Color Palette](http://paletton.com)   
 
 ## Stacks
 [mern.io - Easily build production ready universal apps](http://mern.io)   
