@@ -38,6 +38,11 @@ This repo is created for saving resources we found useful by to date. Mostly con
 ## React
 [Gatsby - Static Site Generator](https://www.gatsbyjs.org)  
 [Monocle - Visualizing Tool for React](https://github.com/team-gryff/react-monocle)   
+[next.js - Documentation](https://nextjs.org/learn/)   
+[Material Design spinner components for React.js](https://github.com/tsuyoshiwada/react-md-spinner)     
+[HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
+[Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
+[ReactSpring - React Animations](http://react-spring.surge.sh/)
 
 ## Design
 [Airbnb Rules for JS](https://github.com/airbnb/javascript)   
@@ -53,14 +58,6 @@ This repo is created for saving resources we found useful by to date. Mostly con
 
 ## Stacks
 [mern.io - Easily build production ready universal apps](http://mern.io)   
-
-## React
-[next.js - Documentation](https://nextjs.org/learn/)   
-[Material Design spinner components for React.js](https://github.com/tsuyoshiwada/react-md-spinner)     
-[HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
-[Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
-[ReactSpring - React Animations](http://react-spring.surge.sh/)   
-
 
 ## Animation
 [Simple libraries for delightful interfaces](https://popmotion.io)   
