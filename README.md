@@ -33,7 +33,16 @@ This repo is created for saving resources we found useful by to date. Mostly con
 
 ## Terminal
 [Cmder](http://cmder.net)   
-[Hyper](https://hyper.is)   
+[Hyper](https://hyper.is)
+
+## Database
+### Server Side
+[Mysql](https://www.mysql.com)   
+[Mongodb](https://www.mongodb.com)
+### Client Side
+[Pouchdb](https://pouchdb.com)  
+[W3 Indexed Database](https://www.w3.org/TR/IndexedDB/)  
+[Web SQL Database](https://www.w3.org/TR/webdatabase/)  
 
 ## React
 [Gatsby - Static Site Generator](https://www.gatsbyjs.org)  
@@ -61,7 +70,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 
 ## Animation
 [Simple libraries for delightful interfaces](https://popmotion.io)   
-[Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll) 
+[Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll)
 [Transition Animation](https://codepen.io/zadvorsky/pen/PNXbGo)     
 [Mo.js - Motion for the web](http://mojs.io/)     
 [ScrollReveal](https://scrollrevealjs.org/)     
