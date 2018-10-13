@@ -1,9 +1,25 @@
 # Web-Resources
 
-### What is this repo for
+### What is this repo for:
 This repo is created for saving resources we found useful by to date. Mostly contains **React** and **Web development** resources.
 
-## Tools:
+# Resources: <br>
+* [Tools](#tools) <br />
+* [Authentication](#authentication) <br>
+* [Design](#design) <br>
+* [CSS](#css) <br>
+* [Terminal](#terminal) <br>
+* [React](#react) <br>
+* [Design Links](#design-links) <br>
+* [Stacks](#stacks) <br>
+* [Animation](#animation) <br>
+* [Awesome](#awesome) <br> 
+* [Vectors Stock Photos, Icons, etc.](#vectors-stock-photos-icons-etc) <br>
+* [Mobile](#mobile) <br>
+* [Blogs](#blogs) <br>
+* [Other](#other) <br>
+
+## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
 [Request Catcher - rest/webhook](http://requestcatcher.com)
 
@@ -45,10 +61,10 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
 [ReactSpring - React Animations](http://react-spring.surge.sh/)
 
-## Databases'
+## Databases
 [WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)
 
-## Design
+## Design   
 [Airbnb Rules for JS](https://github.com/airbnb/javascript)   
 [Nerd fonts](https://nerdfonts.com/)   
 [CSS Cheatsheet](https://css-doodle.com/#selector-@at)   
@@ -76,7 +92,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [15 Interesting JavaScript and CSS Libraries for August 2017](https://tutorialzine.com/2017/08/15-interesting-javascript-and-css-libraries-for-august-2017)
 [10 Amazing CodePen Demos for April 2018](https://tutorialzine.com/2018/04/10-amazing-codepen-demos-for-april)      
 
-## Vectors / Stock Photos / Icons etc.
+## Vectors, Stock Photos, Icons, etc.
 https://worldvectorlogo.com/    
 http://www.flaticon.com     
 https://www.iconfinder.com/   
@@ -84,13 +100,12 @@ https://www.pexels.com/
 https://unsplash.com/   
 https://pixabay.com/    
 
-
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
 [UI Kitten - RN UI Kit](https://akveo.github.io/react-native-ui-kitten/#/home)   
 [Nachos UI Kit - RN UI Kit](https://avocode.com/nachos-ui/)   
 
-## BLOG
+## Blogs
 [An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)
 
 ## Other
