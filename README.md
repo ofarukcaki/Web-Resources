@@ -61,7 +61,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 
 ## Animation
 [Simple libraries for delightful interfaces](https://popmotion.io)   
-[Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll) 
+[Standalone parallax scrolling for mobile and desktop with CSS variables](https://github.com/electerious/basicScroll)
 [Transition Animation](https://codepen.io/zadvorsky/pen/PNXbGo)     
 [Mo.js - Motion for the web](http://mojs.io/)     
 [ScrollReveal](https://scrollrevealjs.org/)     
@@ -88,6 +88,12 @@ https://pixabay.com/
 
 ## BLOG
 [An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)
+
+## Database
+[WatermelonDB](https://github.com/Nozbe/WatermelonDB)   
+[MongoDB](https://www.mongodb.com/)
+[MySQL](https://www.mysql.com/)
+[PostgreSQL](https://www.postgresql.org/)
 
 ## Other
 [Inspect Requests](https://requestbin.fullcontact.com/)   
