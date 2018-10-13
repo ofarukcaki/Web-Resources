@@ -25,6 +25,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 
 ## Authentication
 [Passport.js - Node.js Authentication](https://github.com/jaredhanson/passport)   
+[Firebase - Google's Authentication Solution](https://firebase.google.com/docs/auth/)
 
 ## Design
 [Web Gradients - Gradient Colors for Web](https://webgradients.com)   
@@ -60,7 +61,10 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
 [ReactSpring - React Animations](http://react-spring.surge.sh/)
 
-## Design Links
+## Databases
+[WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)
+
+## Design   
 [Airbnb Rules for JS](https://github.com/airbnb/javascript)   
 [Nerd fonts](https://nerdfonts.com/)   
 [CSS Cheatsheet](https://css-doodle.com/#selector-@at)   
