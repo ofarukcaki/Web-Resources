@@ -44,6 +44,9 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
 [ReactSpring - React Animations](http://react-spring.surge.sh/)
 
+## Database
+[WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)
+
 ## Design
 [Airbnb Rules for JS](https://github.com/airbnb/javascript)   
 [Nerd fonts](https://nerdfonts.com/)   
