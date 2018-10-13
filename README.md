@@ -38,7 +38,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 ## Database
 ### Server Side
 [Mysql](https://www.mysql.com)   
-[Mongodb](https://www.mongodb.com)
+[Mongodb](https://www.mongodb.com)  
+[PostgreSQL](https://www.postgresql.org/)  
 ### Client Side
 [Pouchdb](https://pouchdb.com)  
 [W3 Indexed Database](https://www.w3.org/TR/IndexedDB/)  
