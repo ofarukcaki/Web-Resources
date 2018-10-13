@@ -1,5 +1,8 @@
 # Web-Resources
 
+### What is this repo for
+This repo is created for saving resources we found useful by to date. Mostly contains **React** and **Web development** resources.
+
 ## Tools:
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
 [Request Catcher - rest/webhook](http://requestcatcher.com)
