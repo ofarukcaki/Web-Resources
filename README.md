@@ -9,6 +9,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 
 ## Authentication
 [Passport.js - Node.js Authentication](https://github.com/jaredhanson/passport)   
+[Firebase - Google's Authentication Solution](https://firebase.google.com/docs/auth/)
 
 ## Design
 [Web Gradients - Gradient Colors for Web](https://webgradients.com)   
