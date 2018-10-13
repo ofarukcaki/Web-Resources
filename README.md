@@ -47,12 +47,14 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Image Blur Plugin](https://msurguy.github.io/background-blur/)     
 [Parallax](https://dixonandmoe.com/rellax/)   
 [Epic Bootstrap](https://epicbootstrap.com/)    
+[CSS Flexbox guide] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Terminal
 [Cmder](http://cmder.net)   
 [Hyper](https://hyper.is)   
 
 ## React
+[React - Getting Started and Concepts] (https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 [Gatsby - Static Site Generator](https://www.gatsbyjs.org)  
 [Monocle - Visualizing Tool for React](https://github.com/team-gryff/react-monocle)   
 [next.js - Documentation](https://nextjs.org/learn/)   
