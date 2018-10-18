@@ -24,7 +24,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
 [Request Catcher - rest/webhook](http://requestcatcher.com)   
 [Beeceptor - Rest API Mock Server](https://beeceptor.com)   
-[Postman](https://www.getpostman.com/apps/)
+[Insomnia - Rest Client](https://insomnia.rest/)
 
 ## Authentication
 [Passport.js - Node.js Authentication](https://github.com/jaredhanson/passport)   
@@ -105,8 +105,6 @@ https://unsplash.com/
 https://pixabay.com/    
 
 ## Security
-
-[OWASP Foundation](https://www.owasp.org/index.php/Main_Page)
 
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
