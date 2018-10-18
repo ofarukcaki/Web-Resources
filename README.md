@@ -15,6 +15,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 * [Animation](#animation) <br>
 * [Awesome](#awesome) <br> 
 * [Vectors Stock Photos, Icons, etc.](#vectors-stock-photos-icons-etc) <br>
+* [Security](#security)
 * [Mobile](#mobile) <br>
 * [Blogs](#blogs) <br>
 * [Other](#other) <br>
@@ -22,7 +23,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 ## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
 [Request Catcher - rest/webhook](http://requestcatcher.com)   
-[Beeceptor - Rest API Mock Server](https://beeceptor.com)
+[Beeceptor - Rest API Mock Server](https://beeceptor.com)   
+[Insomnia - Rest Client](https://insomnia.rest/)
 
 ## Authentication
 [Passport.js - Node.js Authentication](https://github.com/jaredhanson/passport)   
@@ -63,7 +65,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [ReactSpring - React Animations](http://react-spring.surge.sh/)
 
 ## Databases
-[WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)
+[WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)   
+[Prisma - Build a GraphQL server with any database](https://www.prisma.io/)
 
 ## Design   
 [Airbnb Rules for JS](https://github.com/airbnb/javascript)   
@@ -100,6 +103,8 @@ https://www.iconfinder.com/
 https://www.pexels.com/     
 https://unsplash.com/   
 https://pixabay.com/    
+
+## Security
 
 ## Mobile
 [pulltorefresh.js](https://www.boxfactura.com/pulltorefresh.js/)   
