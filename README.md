@@ -56,6 +56,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Hyper](https://hyper.is)   
 
 ## React
+[Hot Loader for create-react-app](https://github.com/cdharris/react-app-rewire-hot-loader)    
 [Gatsby - Static Site Generator](https://www.gatsbyjs.org)  
 [Monocle - Visualizing Tool for React](https://github.com/team-gryff/react-monocle)   
 [next.js - Documentation](https://nextjs.org/learn/)   
