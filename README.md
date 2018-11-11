@@ -113,7 +113,8 @@ https://pixabay.com/
 [Nachos UI Kit - RN UI Kit](https://avocode.com/nachos-ui/)   
 
 ## Blogs
-[An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)
+[An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)    
+[Securing fucking MongoDB](https://linoxide.com/linux-how-to/install-mongodb-ubuntu/)
 
 ## Other
 [Inspect Requests](https://requestbin.fullcontact.com/)   
