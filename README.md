@@ -131,4 +131,5 @@ https://pixabay.com/
 [Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs)   
 [Shepherd - Guide your users through a tour of your app](https://github.com/shipshapecode/shepherd)   
 [Shotsnapp - Mobile mockup generator](https://shotsnapp.com/)     
-[Sweet Alerts](https://sweetalert.js.org/)
+[Sweet Alerts](https://sweetalert.js.org/)    
+[nth master](http://nthmaster.com/)
