@@ -50,6 +50,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Image Blur Plugin](https://msurguy.github.io/background-blur/)     
 [Parallax](https://dixonandmoe.com/rellax/)   
 [Epic Bootstrap](https://epicbootstrap.com/)    
+[CSS Hover link animations](https://tympanus.net/Development/CreativeLinkEffects/)    
 
 ## Terminal
 [Cmder](http://cmder.net)   
