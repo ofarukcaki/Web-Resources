@@ -51,6 +51,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Parallax](https://dixonandmoe.com/rellax/)   
 [Epic Bootstrap](https://epicbootstrap.com/)    
 [CSS Hover link animations](https://tympanus.net/Development/CreativeLinkEffects/)    
+[Eva Icons](https://github.com/akveo/eva-icons)   
 
 ## Terminal
 [Cmder](http://cmder.net)   
