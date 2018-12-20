@@ -53,6 +53,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Epic Bootstrap](https://epicbootstrap.com/)    
 [CSS Hover link animations](https://tympanus.net/Development/CreativeLinkEffects/)    
 [Eva Icons](https://github.com/akveo/eva-icons)   
+[Feather Icons](https://feathericons.com/)    
 
 ## Terminal
 [Cmder](http://cmder.net)   
