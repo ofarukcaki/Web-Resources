@@ -24,7 +24,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
 [Request Catcher - rest/webhook](http://requestcatcher.com)   
 [Beeceptor - Rest API Mock Server](https://beeceptor.com)   
-[Insomnia - Rest Client](https://insomnia.rest/)
+[Insomnia - Rest Client](https://insomnia.rest/)    
+[Node.js Process Manager](https://www.totaljs.com/)   
 
 ## Authentication
 [Passport.js - Node.js Authentication](https://github.com/jaredhanson/passport)   
