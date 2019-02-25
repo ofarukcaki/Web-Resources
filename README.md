@@ -87,7 +87,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Color Gradient Generator](https://larsenwork.com/easing-gradients/#editor)   
 [Unsplash - Free Stock Photos](https://unsplash.com)    
 [Paletton - Color Palette](http://paletton.com)   
-[Icons](https://iconmonstr.com/)
+[Icons](https://iconmonstr.com/)    
+[Blobmaker - Otganic SVG shapes](https://www.blobmaker.app/)
 
 ## Stacks
 [mern.io - Easily build production ready universal apps](http://mern.io)   
