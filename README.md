@@ -56,7 +56,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Eva Icons](https://github.com/akveo/eva-icons)   
 [Feather Icons](https://feathericons.com/)    
 [Tilda Icons 700+](https://tilda.cc/free-icons/)    
-[Pretty CHeckboxes](https://github.com/lokesh-coder/pretty-checkbox)
+[Pretty CHeckboxes](https://github.com/lokesh-coder/pretty-checkbox)    
+[Bootbox - Alerts, toasts etc.](http://bootboxjs.com)
 
 ## Terminal
 [Cmder](http://cmder.net)   
