@@ -102,6 +102,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Mo.js - Motion for the web](http://mojs.io/)     
 [ScrollReveal](https://scrollrevealjs.org/)     
 [React Animations](https://popmotion.io/pose/)    
+[Lax.js Animation Library](https://github.com/alexfoxy/laxxx)
 
 ## Awesome
 [33 JavaScript libraries and frameworks to check out in 2018](https://getflywheel.com/layout/javascript-libraries-frameworks-2018/)   
