@@ -26,7 +26,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Beeceptor - Rest API Mock Server](https://beeceptor.com)   
 [Insomnia - Rest Client](https://insomnia.rest/)    
 [Node.js Process Manager](https://www.totaljs.com/)   
-[svgator (paid)](https://www.svgator.com/)
+[svgator (paid)](https://www.svgator.com/)    
+[Screly - Web mockup generator](https://www.screely.com/)
 
 ## Authentication
 [Passport.js - Node.js Authentication](https://github.com/jaredhanson/passport)   
