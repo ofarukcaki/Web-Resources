@@ -60,7 +60,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Feather Icons](https://feathericons.com/)    
 [Tilda Icons 700+](https://tilda.cc/free-icons/)    
 [Pretty CHeckboxes](https://github.com/lokesh-coder/pretty-checkbox)    
-[Bootbox - Alerts, toasts etc.](http://bootboxjs.com)
+[Bootbox - Alerts, toasts etc.](http://bootboxjs.com)   
+[Transferwise Bootstrap](https://bootstrap.transferwise.com)
 
 ## Terminal
 [Cmder](http://cmder.net)   
