@@ -149,4 +149,5 @@ https://pixabay.com/
 [Shotsnapp - Mobile mockup generator](https://shotsnapp.com/)     
 [Sweet Alerts](https://sweetalert.js.org/)    
 [nth master](http://nthmaster.com/)   
-[codyhouse ****](https://codyhouse.co)
+[codyhouse ****](https://codyhouse.co)    
+[https://www.kapwing.com/404-illustrations](Animated 404 Pages)
