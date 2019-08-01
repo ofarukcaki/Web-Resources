@@ -130,7 +130,8 @@ https://pixabay.com/
 ## Blogs
 [An Easy Way to Get Started with the MERN Stack](https://alligator.io/react/mern-stack-intro/)    
 [Securing fucking MongoDB](https://linoxide.com/linux-how-to/install-mongodb-ubuntu/)   
-[UI toolkit for React Native](https://shoutem.github.io/ui)
+[UI toolkit for React Native](https://shoutem.github.io/ui)   
+[HQ React tuts. Nextjs mostly](https://reacttricks.com/)
 
 ## Other
 [Inspect Requests](https://requestbin.fullcontact.com/)   
