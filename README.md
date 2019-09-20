@@ -152,4 +152,5 @@ https://pixabay.com/
 [nth master](http://nthmaster.com/)   
 [codyhouse ****](https://codyhouse.co)    
 [https://www.kapwing.com/404-illustrations](Animated 404 Pages)   
-[Epic Spinners](https://github.com/epicmaxco/epic-spinners)
+[Epic Spinners](https://github.com/epicmaxco/epic-spinners)   
+[Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)
