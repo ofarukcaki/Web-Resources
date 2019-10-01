@@ -1,1 +1,1 @@
-This is the latest version.
+======================\nThis is the latest version.\n======================
