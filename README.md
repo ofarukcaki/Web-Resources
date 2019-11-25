@@ -75,7 +75,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Material Design spinner components for React.js](https://github.com/tsuyoshiwada/react-md-spinner)     
 [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
 [Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
-[ReactSpring - React Animations](http://react-spring.surge.sh/)
+[ReactSpring - React Animations](http://react-spring.surge.sh/)   
+[UseHooks - Easy to understand React Hook recipes](https://usehooks.com/)
 
 ## Databases
 [WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)   
