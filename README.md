@@ -94,7 +94,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Unsplash - Free Stock Photos](https://unsplash.com)    
 [Paletton - Color Palette](http://paletton.com)   
 [Icons](https://iconmonstr.com/)    
-[Blobmaker - Otganic SVG shapes](https://www.blobmaker.app/)
+[Blobmaker - Otganic SVG shapes](https://www.blobmaker.app/)    
+[Hero Patterns - SVG background patterns](http://www.heropatterns.com/)
 
 ## Stacks
 [mern.io - Easily build production ready universal apps](http://mern.io)   
