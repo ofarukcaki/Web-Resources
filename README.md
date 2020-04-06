@@ -95,7 +95,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Paletton - Color Palette](http://paletton.com)   
 [Icons](https://iconmonstr.com/)    
 [Blobmaker - Otganic SVG shapes](https://www.blobmaker.app/)    
-[Hero Patterns - SVG background patterns](http://www.heropatterns.com/)
+[Hero Patterns - SVG background patterns](http://www.heropatterns.com/)   
+[Colors & Fonts](https://www.colorsandfonts.com/)
 
 ## Stacks
 [mern.io - Easily build production ready universal apps](http://mern.io)   
