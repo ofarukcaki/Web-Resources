@@ -62,7 +62,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Pretty CHeckboxes](https://github.com/lokesh-coder/pretty-checkbox)    
 [Bootbox - Alerts, toasts etc.](http://bootboxjs.com)   
 [Transferwise Bootstrap](https://bootstrap.transferwise.com)    
-[Creative Buttons](https://tympanus.net/Development/CreativeButtons/)
+[Creative Buttons](https://tympanus.net/Development/CreativeButtons/)  
+[Animista - CSS Animations on Demand](https://animista.net/)
 
 ## Terminal
 [Cmder](http://cmder.net)   
