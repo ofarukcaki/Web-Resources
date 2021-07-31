@@ -63,7 +63,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Bootbox - Alerts, toasts etc.](http://bootboxjs.com)   
 [Transferwise Bootstrap](https://bootstrap.transferwise.com)    
 [Creative Buttons](https://tympanus.net/Development/CreativeButtons/)  
-[Animista - CSS Animations on Demand](https://animista.net/)
+[Animista - CSS Animations on Demand](https://animista.net/)  
+[Pure & Simple CSS Text Shadows](https://www.massmediums.com/blog/134-create-great-looking-pure-css-text-shadows.html)
 
 ## Terminal
 [Cmder](http://cmder.net)   
