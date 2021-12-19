@@ -113,7 +113,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [React Animations](https://popmotion.io/pose/)    
 [Lax.js Animation Library](https://github.com/alexfoxy/laxxx)   
 [React Animations](https://github.com/kitze/react-genie)  
-[Lottie](https://github.com/airbnb/lottie)
+[Lottie](https://github.com/airbnb/lottie)    
+[SVG Aniamted Loaders](https://medialoot.com/preview/frame/animated-svg-preloaders.html)    
 
 ## Awesome
 [33 JavaScript libraries and frameworks to check out in 2018](https://getflywheel.com/layout/javascript-libraries-frameworks-2018/)   
