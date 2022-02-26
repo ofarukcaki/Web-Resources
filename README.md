@@ -19,7 +19,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 * [Mobile](#mobile) <br>
 * [Blogs](#blogs) <br>
 * [Other](#other) <br>
-# [Tailwindcss](#tailwind) <br> 
+* [Tailwindcss](#tailwind) <br> 
 
 ## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
@@ -168,5 +168,5 @@ https://pixabay.com/
 [Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)  
   
  ## Tailwind
-[UI components for React/Tailwinds](https://headlessui.dev/) 
+[UI components for React/Tailwinds](https://headlessui.dev/)    
 [Taiblocks - Ready to use tailwind blocks](https://tailblocks.cc/)
