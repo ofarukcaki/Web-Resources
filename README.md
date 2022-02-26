@@ -175,7 +175,10 @@ https://pixabay.com/
   
  ## Tailwind
 [UI components for React/Tailwinds](https://headlessui.dev/)    
-[Tailblocks - Ready to use tailwind blocks](https://tailblocks.cc/)
+[Tailblocks - Ready to use tailwind blocks](https://tailblocks.cc/) <br>
+[Meraki UI - Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid With Elegant Dark Mode](https://merakiui.com/) <br>
+[Kitwind - Fully responsive UI kits](https://kitwind.io/products/kometa/components) <br>
+[Tailwind kit - Components and templates](https://www.tailwind-kit.com/)
 
 ## Vue
 [Vue Material](https://www.creative-tim.com/vuematerial/)
