@@ -40,7 +40,9 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [SweetAler2 - Colorful Alert Boxes](https://sweetalert2.github.io)   
 [Background based on two dominant color](https://github.com/benhowdle89/grade)   
 [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)   
-[Trianglify - algorithmically generated triangle art](http://qrohlf.com/trianglify/)   
+[Trianglify - algorithmically generated triangle art](http://qrohlf.com/trianglify/) <br>
+[Dribbble - Professional themes, fonts, templates](https://dribbble.com/marketplace/themes) <br>
+[Ant Design](https://ant.design/)
 
 ## CSS
 [Yoga - layouts for any platform](https://yogalayout.com)   
@@ -66,7 +68,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Creative Buttons](https://tympanus.net/Development/CreativeButtons/)  
 [Animista - CSS Animations on Demand](https://animista.net/)  
 [Pure & Simple CSS Text Shadows](https://www.massmediums.com/blog/134-create-great-looking-pure-css-text-shadows.html)    
-[CSS Grid Experiments](https://codepen.io/collection/DQvYpQ/?cursor=ZD0xJm89MSZwPTEmdj0xOQ==)   
+[CSS Grid Experiments](https://codepen.io/collection/DQvYpQ/?cursor=ZD0xJm89MSZwPTEmdj0xOQ==) <br>
+[Bulma](https://bulma.io/)
 
 ## Terminal
 [Cmder](http://cmder.net)   
@@ -81,7 +84,9 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
 [Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
 [ReactSpring - React Animations](http://react-spring.surge.sh/)   
-[UseHooks - Easy to understand React Hook recipes](https://usehooks.com/)
+[UseHooks - Easy to understand React Hook recipes](https://usehooks.com/) <br>
+[Chakra UI - A simple, modular and accessible component library](https://chakra-ui.com/) <br> 
+[formerly Material-UI](https://mui.com/)
 
 ## Databases
 [WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)   
@@ -163,10 +168,13 @@ https://pixabay.com/
 [Sweet Alerts](https://sweetalert.js.org/)    
 [nth master](http://nthmaster.com/)   
 [codyhouse ****](https://codyhouse.co)    
-[https://www.kapwing.com/404-illustrations](Animated 404 Pages)   
+[Animated 404 Pages](https://www.kapwing.com/404-illustrations)   
 [Epic Spinners](https://github.com/epicmaxco/epic-spinners)   
 [Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)  
   
  ## Tailwind
 [UI components for React/Tailwinds](https://headlessui.dev/)    
-[Taiblocks - Ready to use tailwind blocks](https://tailblocks.cc/)
+[Tailblocks - Ready to use tailwind blocks](https://tailblocks.cc/)
+
+## Vue
+[Vue Material](https://www.creative-tim.com/vuematerial/)
