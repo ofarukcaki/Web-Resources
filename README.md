@@ -19,6 +19,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 * [Mobile](#mobile) <br>
 * [Blogs](#blogs) <br>
 * [Other](#other) <br>
+# [Tailwindcss](#tailwind) <br> 
 
 ## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
@@ -164,4 +165,8 @@ https://pixabay.com/
 [codyhouse ****](https://codyhouse.co)    
 [https://www.kapwing.com/404-illustrations](Animated 404 Pages)   
 [Epic Spinners](https://github.com/epicmaxco/epic-spinners)   
-[Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)
+[Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)  
+  
+ ## Tailwind
+[UI components for React/Tailwinds](https://headlessui.dev/) 
+[Taiblocks - Ready to use tailwind blocks](https://tailblocks.cc/)
