@@ -188,4 +188,5 @@ https://pixabay.com/
 ## Testing
 [Cucumber Boilerplate](https://github.com/webdriverio/cucumber-boilerplate)   
 [Jest](https://github.com/facebook/jest)    
-[Node.js template for end-to-end testing with Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer)
+[Node.js template for end-to-end testing with Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer)    
+[Copycat - Super cool tool for creating web tests. Like Selenium-IDE, but for jest-puppeteer.](https://github.com/omergulen/copycat)
