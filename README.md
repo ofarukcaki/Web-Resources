@@ -4,22 +4,25 @@
 This repo is created for saving resources we found useful by to date. Mostly contains **React** and **Web development** resources.
 
 # Resources: <br>
-* [Tools](#tools) <br />
-* [Authentication](#authentication) <br>
-* [Design](#design) <br>
-* [CSS](#css) <br>
-* [Terminal](#terminal) <br>
-* [React](#react) <br>
-* [Design Links](#design-links) <br>
-* [Stacks](#stacks) <br>
 * [Animation](#animation) <br>
-* [Awesome](#awesome) <br> 
-* [Vectors Stock Photos, Icons, etc.](#vectors-stock-photos-icons-etc) <br>
-* [Security](#security)
-* [Mobile](#mobile) <br>
+* [Authentication](#authentication) <br>
+* [Awesome](#awesome) <br>
 * [Blogs](#blogs) <br>
+* [CSS](#css) <br>
+* [Databases](#databases) <br>
+* [Design](#design) <br>
+* [Design Links](#design-links) <br>
+* [Mobile](#mobile) <br>
 * [Other](#other) <br>
+* [React](#react) <br>
+* [Security](#security)
+* [Stacks](#stacks) <br>
 * [Tailwindcss](#tailwind) <br> 
+* [Terminal](#terminal) <br>
+* [Testing](#testing) <br>
+* [Tools](#tools) <br />
+* [Vectors Stock Photos, Icons, etc.](#vectors-stock-photos-icons-etc) <br>
+* [Vue](#vue) <br> 
 
 ## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
@@ -40,7 +43,9 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [SweetAler2 - Colorful Alert Boxes](https://sweetalert2.github.io)   
 [Background based on two dominant color](https://github.com/benhowdle89/grade)   
 [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)   
-[Trianglify - algorithmically generated triangle art](http://qrohlf.com/trianglify/)   
+[Trianglify - algorithmically generated triangle art](http://qrohlf.com/trianglify/)    
+[Dribbble - Professional themes, fonts, templates](https://dribbble.com/marketplace/themes)   
+[Ant Design](https://ant.design/)
 
 ## CSS
 [Yoga - layouts for any platform](https://yogalayout.com)   
@@ -67,6 +72,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Animista - CSS Animations on Demand](https://animista.net/)  
 [Pure & Simple CSS Text Shadows](https://www.massmediums.com/blog/134-create-great-looking-pure-css-text-shadows.html)    
 [CSS Grid Experiments](https://codepen.io/collection/DQvYpQ/?cursor=ZD0xJm89MSZwPTEmdj0xOQ==)   
+[Bulma](https://bulma.io/)
 
 ## Terminal
 [Cmder](http://cmder.net)   
@@ -81,7 +87,9 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)    
 [Unstated - React State Management](https://github.com/jamiebuilds/unstated)      
 [ReactSpring - React Animations](http://react-spring.surge.sh/)   
-[UseHooks - Easy to understand React Hook recipes](https://usehooks.com/)
+[UseHooks - Easy to understand React Hook recipes](https://usehooks.com/)   
+[Chakra UI - A simple, modular and accessible component library](https://chakra-ui.com/)    
+[formerly Material-UI](https://mui.com/)
 
 ## Databases
 [WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)   
@@ -163,10 +171,21 @@ https://pixabay.com/
 [Sweet Alerts](https://sweetalert.js.org/)    
 [nth master](http://nthmaster.com/)   
 [codyhouse ****](https://codyhouse.co)    
-[https://www.kapwing.com/404-illustrations](Animated 404 Pages)   
+[Animated 404 Pages](https://www.kapwing.com/404-illustrations)   
 [Epic Spinners](https://github.com/epicmaxco/epic-spinners)   
 [Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)  
   
  ## Tailwind
 [UI components for React/Tailwinds](https://headlessui.dev/)    
-[Taiblocks - Ready to use tailwind blocks](https://tailblocks.cc/)
+[Tailblocks - Ready to use tailwind blocks](https://tailblocks.cc/)   
+[Meraki UI - Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid With Elegant Dark Mode](https://merakiui.com/)    
+[Kitwind - Fully responsive UI kits](https://kitwind.io/products/kometa/components)   
+[Tailwind kit - Components and templates](https://www.tailwind-kit.com/)
+
+## Vue
+[Vue Material](https://www.creative-tim.com/vuematerial/)
+
+## Testing
+[Cucumber Boilerplate](https://github.com/webdriverio/cucumber-boilerplate)   
+[Jest](https://github.com/facebook/jest)    
+[Node.js template for end-to-end testing with Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer)
