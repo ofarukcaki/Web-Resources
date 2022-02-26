@@ -9,8 +9,10 @@ This repo is created for saving resources we found useful by to date. Mostly con
 * [Awesome](#awesome) <br>
 * [Blogs](#blogs) <br>
 * [CSS](#css) <br>
+* [Databases](#databases) <br>
 * [Design](#design) <br>
 * [Design Links](#design-links) <br>
+* [Mobile](#mobile) <br>
 * [Other](#other) <br>
 * [React](#react) <br>
 * [Security](#security)
