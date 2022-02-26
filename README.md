@@ -20,6 +20,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 * [Blogs](#blogs) <br>
 * [Other](#other) <br>
 * [Tailwindcss](#tailwind) <br> 
+* [Vue](#vue) <br> 
 
 ## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
