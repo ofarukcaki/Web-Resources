@@ -89,7 +89,9 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [ReactSpring - React Animations](http://react-spring.surge.sh/)   
 [UseHooks - Easy to understand React Hook recipes](https://usehooks.com/)   
 [Chakra UI - A simple, modular and accessible component library](https://chakra-ui.com/)    
-[formerly Material-UI](https://mui.com/)
+[formerly Material-UI](https://mui.com/)    
+[Jotai - Primitive and flexible state management for React](https://jotai.org/)    
+[zustand - A small, fast and scalable bearbones state-management](https://github.com/pmndrs/zustand)    
 
 ## Databases
 [WatermelonDB - Database for Easy User Data Interaction](https://github.com/Nozbe/WatermelonDB)   
