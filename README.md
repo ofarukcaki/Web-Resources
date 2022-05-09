@@ -45,7 +45,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)   
 [Trianglify - algorithmically generated triangle art](http://qrohlf.com/trianglify/)    
 [Dribbble - Professional themes, fonts, templates](https://dribbble.com/marketplace/themes)   
-[Ant Design](https://ant.design/)
+[Ant Design](https://ant.design/)   
+[2 Color Combinations](https://2colors.colorion.co/?ref=producthunt)    
 
 ## CSS
 [Yoga - layouts for any platform](https://yogalayout.com)   
