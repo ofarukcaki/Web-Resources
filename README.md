@@ -176,7 +176,8 @@ https://pixabay.com/
 [codyhouse ****](https://codyhouse.co)    
 [Animated 404 Pages](https://www.kapwing.com/404-illustrations)   
 [Epic Spinners](https://github.com/epicmaxco/epic-spinners)   
-[Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)  
+[Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)    
+[Codepip Games (tutorials)](https://codepip.com/games/)     
   
  ## Tailwind
 [UI components for React/Tailwinds](https://headlessui.dev/)    
