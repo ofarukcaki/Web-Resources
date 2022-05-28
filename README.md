@@ -178,6 +178,7 @@ https://pixabay.com/
 [Epic Spinners](https://github.com/epicmaxco/epic-spinners)   
 [Next.js Auth Example Snippet](https://github.com/zeit/next.js/issues/153)    
 [Codepip Games (tutorials)](https://codepip.com/games/)     
+[Refactoring.guru](https://refactoring.guru/)        
   
  ## Tailwind
 [UI components for React/Tailwinds](https://headlessui.dev/)    
