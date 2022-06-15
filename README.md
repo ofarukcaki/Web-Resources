@@ -47,6 +47,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Dribbble - Professional themes, fonts, templates](https://dribbble.com/marketplace/themes)   
 [Ant Design](https://ant.design/)   
 [2 Color Combinations](https://2colors.colorion.co/?ref=producthunt)    
+[Goodpalette - Make beautiful color palettes for UI.](https://goodpalette.io/)
 
 ## CSS
 [Yoga - layouts for any platform](https://yogalayout.com)   
