@@ -22,7 +22,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 * [Testing](#testing) <br>
 * [Tools](#tools) <br />
 * [Vectors Stock Photos, Icons, etc.](#vectors-stock-photos-icons-etc) <br>
-* [Vue](#vue) <br> 
+* [Vue](#vue) <br>    
+* [Not a devtool but usefull apps](#utils) <br>
 
 ## Tools
 [Mozilla Developer Tools](https://www.mozilla.org/tr/firefox/developer/)    
@@ -197,3 +198,8 @@ https://pixabay.com/
 [Cucumber Boilerplate](https://github.com/webdriverio/cucumber-boilerplate)   
 [Jest](https://github.com/facebook/jest)    
 [Node.js template for end-to-end testing with Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer)
+
+<hr>
+
+## Utils    
+[Free Form Builder (like typeform)](https://tally.so/)
