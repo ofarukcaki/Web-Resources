@@ -202,4 +202,5 @@ https://pixabay.com/
 <hr>
 
 ## Utils    
-[Free Form Builder (like typeform)](https://tally.so/)
+[Free Form Builder (like typeform)](https://tally.so/)    
+[Cheat sheets](https://devhints.io/)    
