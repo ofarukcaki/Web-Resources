@@ -75,7 +75,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Animista - CSS Animations on Demand](https://animista.net/)  
 [Pure & Simple CSS Text Shadows](https://www.massmediums.com/blog/134-create-great-looking-pure-css-text-shadows.html)    
 [CSS Grid Experiments](https://codepen.io/collection/DQvYpQ/?cursor=ZD0xJm89MSZwPTEmdj0xOQ==)   
-[Bulma](https://bulma.io/)
+[Bulma](https://bulma.io/)    
+[Beautiful Box Shadows](https://getcssscan.com/css-box-shadow-examples)
 
 ## Terminal
 [Cmder](http://cmder.net)   
