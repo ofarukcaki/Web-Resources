@@ -116,7 +116,8 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Blobmaker - Otganic SVG shapes](https://www.blobmaker.app/)    
 [Hero Patterns - SVG background patterns](http://www.heropatterns.com/)   
 [Colors & Fonts](https://www.colorsandfonts.com/)   
-[Hue.tools](https://hue.tools/)   
+[Hue.tools](https://hue.tools/)     
+[Magic Patterns](https://www.magicpattern.design/)
 
 ## Stacks
 [mern.io - Easily build production ready universal apps](http://mern.io)   
