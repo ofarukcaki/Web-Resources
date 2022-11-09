@@ -206,3 +206,4 @@ https://pixabay.com/
 ## Utils    
 [Free Form Builder (like typeform)](https://tally.so/)    
 [Cheat sheets](https://devhints.io/)    
+[Free Landing Page Templates](https://uisual.com/)
