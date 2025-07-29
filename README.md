@@ -49,6 +49,7 @@ This repo is created for saving resources we found useful by to date. Mostly con
 [Ant Design](https://ant.design/)   
 [2 Color Combinations](https://2colors.colorion.co/?ref=producthunt)    
 [Goodpalette - Make beautiful color palettes for UI.](https://goodpalette.io/)
+[SVG generator. Design Tools 50+](https://www.fffuel.co)
 
 ## CSS
 [Yoga - layouts for any platform](https://yogalayout.com)   
